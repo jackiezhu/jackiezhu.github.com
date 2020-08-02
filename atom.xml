@@ -5,9 +5,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://zzw.red/"/>
   <updated>2020-08-02T04:38:26.995Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://zzw.red/</id>
   
   <author>
     <name>jkmzh</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2020/08/02/hello-world/"/>
-    <id>http://yoursite.com/2020/08/02/hello-world/</id>
+    <link href="http://zzw.red/2020/08/02/hello-world/"/>
+    <id>http://zzw.red/2020/08/02/hello-world/</id>
     <published>2020-08-02T04:38:26.995Z</published>
     <updated>2020-08-02T04:38:26.995Z</updated>
     
