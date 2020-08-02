@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://zzw.red/about/index.html</loc>
+    
+    <lastmod>2020-08-02T08:59:52.398Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zzw.red/books/index.html</loc>
+    
+    <lastmod>2020-08-02T08:59:33.960Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zzw.red/tags/index.html</loc>
+    
+    <lastmod>2020-08-02T08:58:23.357Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zzw.red/2020/08/02/hello-world%2520copy%25202/</loc>
+    
+    <lastmod>2020-08-02T08:43:30.499Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://zzw.red/2020/08/02/hello-world%2520copy/</loc>
+    
+    <lastmod>2020-08-02T08:43:26.418Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://zzw.red/2020/08/02/hello-world/</loc>
     
     <lastmod>2020-08-02T04:38:26.995Z</lastmod>
